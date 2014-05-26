@@ -1,4 +1,4 @@
-##Address book with multiple objects
+##Address book
 
 ####This project is an address book in which each contact can have many phone numbers and/or addresses.
 
