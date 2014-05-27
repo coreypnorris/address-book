@@ -4,4 +4,4 @@
 
 To use it just download the zip file and open the index.html file in your web browser of choice.
 
-I built this project while I was a student at [Epicodus](http://www.epicodus.com/). This exercise was meant to teach us about [Relationships among objects](http://www.learnhowtoprogram.com/lessons/relationships-among-objects) in object-oriented programming. Each contact in the address book has multiple phone numbers and addresses instead of just one.
+We built this project while we were students at [Epicodus](http://www.epicodus.com/). This exercise was meant to teach us about [Relationships among objects](http://www.learnhowtoprogram.com/lessons/relationships-among-objects) in object-oriented programming. Each contact in the address book has multiple phone numbers and addresses instead of just one.
